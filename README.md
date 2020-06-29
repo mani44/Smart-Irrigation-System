@@ -1,4 +1,4 @@
-# Smart-Irrigation-System
+# Smart-Irrigation-System Using Arduino and MQTT protocol
 
 App link
 http://irrigation-smart.herokuapp.com/
